@@ -8,9 +8,9 @@
 
 - 👯 I’m looking to collaborate on [Various Projects](https://github.com/mahi13singh2004/JS-Projects)
 
-- 🤝 I’m looking for help with [My Projects](https://github.com/mahi13singh2004/Clones)
+- 🤝 I’m looking for help with [My Projects](https://github.com/mahi13singh2004/JS-Projects)
 
-- 👨‍💻 All of my projects are available at [Very Soon](Very Soon)
+- 👨‍💻 All of my projects are available at (Very Soon)
 
 - 💬 Ask me anything about **C++, HTML, CSS And Competitive Programming**
 
