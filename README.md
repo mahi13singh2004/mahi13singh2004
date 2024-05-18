@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on [Various Projects](https://github.com/mahi13singh2004/Clones)
+- 👯 I’m looking to collaborate on [Various Projects](https://github.com/mahi13singh2004/JS-Projects)
 
 - 🤝 I’m looking for help with [My Projects](https://github.com/mahi13singh2004/Clones)
 
