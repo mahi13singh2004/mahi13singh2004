@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahi Singh</h1>
-<h3 align="center">A passionate first year student from India</h3>
+<h3 align="center">A passionate first second student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahi13singh2004&label=Profile%20views&color=0e75b6&style=flat" alt="mahi13singh2004" /> </p>
