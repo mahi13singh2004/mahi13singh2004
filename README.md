@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at (Very Soon)
 
-- 💬 Ask me anything about **C++, HTML, CSS And Competitive Programming**
+- 💬 Ask me anything about **C++, HTML, CSS, JS, React And Competitive Programming**
 
 - 📫 How to reach me **mahi13singh2004@gmail.com**
 
