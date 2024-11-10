@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahi13singh2004&label=Profile%20views&color=0e75b6&style=flat" alt="mahi13singh2004" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently going to start working on full-stack projects!
 
-- 👯 I’m looking to collaborate on [Various Projects](https://github.com/mahi13singh2004/JS-Projects)
+- 👯 I’m not looking to collaborate currently.
 
-- 🤝 I’m looking for help with [My Projects](https://github.com/mahi13singh2004/JS-Projects)
+- 🤝 I’m not looking for help currently.
 
-- 👨‍💻 All of my projects are available at (Very Soon)
+- 👨‍💻 All of my projects will be available very Soon
 
-- 💬 Ask me anything about **C++, HTML, CSS, JS, React And Competitive Programming**
+- 💬 Ask me anything about **C++, HTML, CSS, JS, React, Node, Express, Mongo And Competitive Programming**
 
 - 📫 How to reach me **mahi13singh2004@gmail.com**
 
