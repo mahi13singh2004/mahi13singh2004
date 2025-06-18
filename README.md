@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahi Singh</h1>
+<br>
 <img align="right" src="https://icon2.cleanpng.com/lnd/20240918/iy/fcd93bbe8086e36c3583d33cae6e0e.webp" width="250" />
 <h3 align="center">A passionate frontend developer from Karnataka</h3>
 
