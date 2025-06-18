@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahi Singh</h1>
 <br>
-<img align="right" src="https://icon2.cleanpng.com/lnd/20240918/iy/fcd93bbe8086e36c3583d33cae6e0e.webp" width="250" />
+<img align="right" src="https://imgcdn.stablediffusionweb.com/2024/12/25/2aceb510-9c09-4bb4-923b-c947292692ac.jpg" width="250" />
 <h3 align="center">A passionate frontend developer from Karnataka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahi13singh2004&label=Profile%20views&color=0e75b6&style=flat" alt="mahi13singh2004" /> </p>
