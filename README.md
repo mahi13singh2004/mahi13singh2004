@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Dev**
 
-- 💬 Ask me about **Competitive coding, full stack dev!**
+- 💬 Ask me about **Competitive coding, DSA or Development!**
 
 - 📫 How to reach me **mahi13singh2004@gmail.com**
 
