@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahi Singh</h1>
+<img align="right" src="[https://avatars.githubusercontent.com/u/yourGitHubID?v=4](https://img.freepik.com/free-vector/smiling-young-man-glasses_1308-174702.jpg?ga=GA1.1.440668362.1749191964&semt=ais_hybrid&w=740)" width="150" />
 <h3 align="center">A passionate frontend developer from Karnataka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahi13singh2004&label=Profile%20views&color=0e75b6&style=flat" alt="mahi13singh2004" /> </p>
