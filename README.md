@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahi Singh</h1>
 <br>
 <img align="right" src="https://imgcdn.stablediffusionweb.com/2024/12/25/2aceb510-9c09-4bb4-923b-c947292692ac.jpg" width="400" />
-<h3 align="center">A passionate frontend developer from Karnataka</h3>
+<h3 align="center">A passionate frontend developer from Bengaluru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahi13singh2004&label=Profile%20views&color=0e75b6&style=flat" alt="mahi13singh2004" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Dev**
+- 🌱 I’m proficient in **Full Stack Dev**
 
 - 💬 Ask me about **Competitive coding, DSA or Development!**
 
