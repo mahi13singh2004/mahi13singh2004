@@ -137,13 +137,6 @@ I'm Mahi Singh, a final-year Information Science and Engineering student at **Vi
 - Reduced manual study effort by approximately **90%**.
 - Implemented real-time collaborative study rooms using Socket.IO.
 
-### 4. RakshaAI – AI-Powered Women Safety System
-`TensorFlow` `MobileNet` `Bi-LSTM` `Django` `Flutter` `PostgreSQL`
-
-- Developed a hybrid MobileNet + Bi-LSTM model for intelligent video-based safety analysis.
-- Trained on 1,000+ annotated video samples.
-- Achieved 94% accuracy, 92% precision and 91% recall.
-
 ---
 
 <!-- ===================== TECH STACK ===================== -->
