@@ -202,16 +202,6 @@ I'm Mahi Singh, a final-year Information Science and Engineering student at **Vi
 
 ---
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahi13singh2004&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
 <!-- ===================== CONNECT ===================== -->
 
 ## 🤝 Connect With Me
