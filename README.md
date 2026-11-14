@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Mahi Singh, a final-year Information Science and Engineering student at **Visvesvaraya Technological University (VTU), Bengaluru**, with a CGPA of **8.98/10**.
+I'm Mahi Singh, a final-year Information Science and Engineering student at **Visvesvaraya Technological University (VTU), Bengaluru**.
 
 - 💼 Software Engineering Intern at **AbleCredit**.
 - 🚀 Completed **2 Software Engineering Internships**, gaining hands-on production experience.
